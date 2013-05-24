@@ -1,0 +1,7 @@
+C:\Users\MADARA UCHIHA\Documents\SharpDevelop Projects\UTS_FORM\UTS_FORM\bin\Debug\UTS_FORM.exe
+C:\Users\MADARA UCHIHA\Documents\SharpDevelop Projects\UTS_FORM\UTS_FORM\bin\Debug\UTS_FORM.pdb
+C:\Users\MADARA UCHIHA\Documents\SharpDevelop Projects\UTS_FORM\UTS_FORM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MADARA UCHIHA\Documents\SharpDevelop Projects\UTS_FORM\UTS_FORM\obj\Debug\UTS_FORM.MainForm.resources
+C:\Users\MADARA UCHIHA\Documents\SharpDevelop Projects\UTS_FORM\UTS_FORM\obj\Debug\UTS_FORM.csproj.GenerateResource.Cache
+C:\Users\MADARA UCHIHA\Documents\SharpDevelop Projects\UTS_FORM\UTS_FORM\obj\Debug\UTS_FORM.exe
+C:\Users\MADARA UCHIHA\Documents\SharpDevelop Projects\UTS_FORM\UTS_FORM\obj\Debug\UTS_FORM.pdb
